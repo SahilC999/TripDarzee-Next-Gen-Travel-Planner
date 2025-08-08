@@ -80,13 +80,8 @@ To get a local copy of the project up and running, follow these steps:
 
 ## Screenshot
 
-### Home Page
-![Screenshot_1](https://github.com/user-attachments/assets/ad11c768-646c-4b72-baf9-950a2a3a8e53)
 
-### Generate Trip Page
-![Screenshot_2](https://github.com/user-attachments/assets/1ce88fa2-db9f-4f39-8676-5efb6d9fbc3a)
 
-### Created Trip Page
 ![Screenshot_4](https://github.com/user-attachments/assets/74c607ce-17d0-4ce7-be45-dc74ca7fd740)
 
 ![Screenshot_5](https://github.com/user-attachments/assets/e430b411-81d5-4e70-b1e3-8ec716689efa)
@@ -94,6 +89,4 @@ To get a local copy of the project up and running, follow these steps:
 ### My Tip Page
 ![Screenshot_3](https://github.com/user-attachments/assets/8537f3fa-b898-42ec-a623-902551f7ae8d)
 
-## References
 
-I used [TubeGuruji YouTube channel](https://www.youtube.com/@tubeguruji) to develop this project. Thank you for the useful content.

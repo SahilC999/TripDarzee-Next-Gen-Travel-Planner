@@ -86,7 +86,5 @@ To get a local copy of the project up and running, follow these steps:
 
 ![Screenshot_5](https://github.com/user-attachments/assets/e430b411-81d5-4e70-b1e3-8ec716689efa)
 
-### My Tip Page
-![Screenshot_3](https://github.com/user-attachments/assets/8537f3fa-b898-42ec-a623-902551f7ae8d)
 
 
